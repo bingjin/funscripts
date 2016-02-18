@@ -8,5 +8,5 @@ git clone https://github.com/AlchemyAPI/alchemyapi_python.git
 cd alchemyapi_python
 python alchemyapi.py YOUR_API_KEY # 将YOUR_API_KEY替换成你的Key
 
-cp bld.py alchempyapi_python/bld.py
+cp ../bld.py bld.py
 python bld.py
